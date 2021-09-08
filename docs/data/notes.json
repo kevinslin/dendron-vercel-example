@@ -1,0 +1,1380 @@
+{
+  "notes": {
+    "403": {
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "403",
+      "updated": 1631118004571,
+      "created": 1631118004571,
+      "parent": null,
+      "children": [],
+      "body": "[Dendron](https://dendron.so/) (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page\n\n![](https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png)",
+      "data": {}
+    },
+    "root": {
+      "id": "root",
+      "title": "root",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "root",
+      "updated": 1605266684036,
+      "created": 1595961348801,
+      "parent": null,
+      "children": [
+        "01u0co3RYjOM1bjpc2qIU"
+      ],
+      "data": {},
+      "contentHash": "cf4622cd4e7841f93fb3051e6203c8e6",
+      "custom": {
+        "stub": false,
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "body": "\nThis is the root for your Dendron vault.\n\nIf you decide to publish your entire vault, it will be your landing page. You are free to customize any part of this page except the frontmatter at the top, between the `---`. \n"
+    },
+    "01u0co3RYjOM1bjpc2qIU": {
+      "id": "01u0co3RYjOM1bjpc2qIU",
+      "title": "Tutorial",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "Tutorial Home Page",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial",
+            "id": "01u0co3RYjOM1bjpc2qIU",
+            "vaultName": "vault"
+          },
+          "value": "tutorial.1-navigation-basics",
+          "alias": "tutorial.1-navigation-basics",
+          "position": {
+            "start": {
+              "line": 17,
+              "column": 14,
+              "offset": 852
+            },
+            "end": {
+              "line": 17,
+              "column": 46,
+              "offset": 884
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial.1-navigation-basics"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial",
+            "id": "01u0co3RYjOM1bjpc2qIU",
+            "vaultName": "vault"
+          },
+          "value": "tutorial.2-taking-notes",
+          "alias": "tutorial.2-taking-notes",
+          "position": {
+            "start": {
+              "line": 18,
+              "column": 13,
+              "offset": 897
+            },
+            "end": {
+              "line": 18,
+              "column": 40,
+              "offset": 924
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial.2-taking-notes"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial",
+            "id": "01u0co3RYjOM1bjpc2qIU",
+            "vaultName": "vault"
+          },
+          "value": "tutorial.3-linking-your-notes",
+          "alias": "tutorial.3-linking-your-notes",
+          "position": {
+            "start": {
+              "line": 19,
+              "column": 15,
+              "offset": 939
+            },
+            "end": {
+              "line": 19,
+              "column": 48,
+              "offset": 972
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial.3-linking-your-notes"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial",
+            "id": "01u0co3RYjOM1bjpc2qIU",
+            "vaultName": "vault"
+          },
+          "value": "tutorial.4-rich-formatting",
+          "alias": "tutorial.4-rich-formatting",
+          "position": {
+            "start": {
+              "line": 20,
+              "column": 15,
+              "offset": 987
+            },
+            "end": {
+              "line": 20,
+              "column": 45,
+              "offset": 1017
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial.4-rich-formatting"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial",
+            "id": "01u0co3RYjOM1bjpc2qIU",
+            "vaultName": "vault"
+          },
+          "value": "tutorial.5-conclusion",
+          "alias": "tutorial.5-conclusion",
+          "position": {
+            "start": {
+              "line": 21,
+              "column": 15,
+              "offset": 1032
+            },
+            "end": {
+              "line": 21,
+              "column": 40,
+              "offset": 1057
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial.5-conclusion"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial",
+            "id": "01u0co3RYjOM1bjpc2qIU",
+            "vaultName": "vault"
+          },
+          "value": "user.dendronhq",
+          "alias": "@dendronhq",
+          "position": {
+            "start": {
+              "line": 25,
+              "column": 240,
+              "offset": 1317
+            },
+            "end": {
+              "line": 25,
+              "column": 250,
+              "offset": 1327
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "user.dendronhq"
+          }
+        },
+        {
+          "from": {
+            "fname": "tutorial.1-navigation-basics",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 40,
+              "column": 62,
+              "offset": 1939
+            },
+            "end": {
+              "line": 40,
+              "column": 74,
+              "offset": 1951
+            },
+            "indent": []
+          },
+          "value": "tutorial"
+        },
+        {
+          "from": {
+            "fname": "tutorial.1-navigation-basics",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 44,
+              "column": 1,
+              "offset": 2085
+            },
+            "end": {
+              "line": 44,
+              "column": 33,
+              "offset": 2117
+            },
+            "indent": []
+          },
+          "value": "tutorial"
+        },
+        {
+          "from": {
+            "fname": "tutorial.2-taking-notes",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 49,
+              "column": 1,
+              "offset": 3496
+            },
+            "end": {
+              "line": 49,
+              "column": 33,
+              "offset": 3528
+            },
+            "indent": []
+          },
+          "value": "tutorial"
+        },
+        {
+          "from": {
+            "fname": "tutorial.3-linking-your-notes",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 10,
+              "offset": 334
+            },
+            "end": {
+              "line": 8,
+              "column": 22,
+              "offset": 346
+            },
+            "indent": []
+          },
+          "value": "tutorial"
+        },
+        {
+          "from": {
+            "fname": "tutorial.3-linking-your-notes",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 33,
+              "column": 76,
+              "offset": 1685
+            },
+            "end": {
+              "line": 33,
+              "column": 97,
+              "offset": 1706
+            },
+            "indent": []
+          },
+          "value": "tutorial"
+        },
+        {
+          "from": {
+            "fname": "tutorial.3-linking-your-notes",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 38,
+              "column": 1,
+              "offset": 2088
+            },
+            "end": {
+              "line": 38,
+              "column": 33,
+              "offset": 2120
+            },
+            "indent": []
+          },
+          "value": "tutorial"
+        },
+        {
+          "from": {
+            "fname": "tutorial.4-rich-formatting",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 64,
+              "column": 1,
+              "offset": 1756
+            },
+            "end": {
+              "line": 64,
+              "column": 33,
+              "offset": 1788
+            },
+            "indent": []
+          },
+          "value": "tutorial"
+        },
+        {
+          "from": {
+            "fname": "tutorial.5-conclusion",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 26,
+              "column": 1,
+              "offset": 1817
+            },
+            "end": {
+              "line": 26,
+              "column": 33,
+              "offset": 1849
+            },
+            "indent": []
+          },
+          "value": "tutorial"
+        }
+      ],
+      "anchors": {
+        "welcome-to-dendron": {
+          "type": "header",
+          "value": "welcome-to-dendron",
+          "line": 8,
+          "column": 0
+        },
+        "steps-to-get-started-with-dendron": {
+          "type": "header",
+          "value": "steps-to-get-started-with-dendron",
+          "line": 18,
+          "column": 0
+        },
+        "getting-help": {
+          "type": "header",
+          "value": "getting-help",
+          "line": 29,
+          "column": 0
+        },
+        "icon-guide": {
+          "type": "header",
+          "value": "icon-guide",
+          "line": 35,
+          "column": 0
+        }
+      },
+      "fname": "tutorial",
+      "updated": 1624864763249,
+      "created": 1624333847315,
+      "parent": "root",
+      "children": [
+        "vXh-HmSTsmgGA9j9IzcZh",
+        "DO_RXSlAbwNwbz-ILKoQa",
+        "hAB2tQHsi0CGuhxz5HkTI",
+        "vAy0awBTwDaxKGHWUdSaP",
+        "Jwq6452yNKOVw6WZhvQQd"
+      ],
+      "data": {},
+      "contentHash": "354180fb8e78febbfa546ec58cf34ea5",
+      "custom": {},
+      "body": "\n## Welcome to Dendron\n\nThis guide will help you learn the basics of Dendron. You can also follow the Getting Started guides on our [website](https://wiki.dendron.so/notes/678c77d9-ef2c-4537-97b5-64556d6337f1.html).\n\nBy the end of the tutorial, you will also see how Dendron can help you manage your knowledge with super fast lookup, flexible hierarchies, and powerful linking.\n\nIf you close VS Code, you can always get back to this workspace by going to `File > Open Workspace` in VS Code's menu and then selecting your workspace file: `/Users/kevinlin/Dendron/dendron.code-workspace`\n\nThe tutorial steps take about 10 minutes to complete. Let's get started!\n\n#### Steps to get started with Dendron:\n\n- [x] Install Dendron\n- [x] Create your first workspace\n- [ ] Complete the Tutorial (Cmd+Click on the links to go to each tutorial note)\n  - [ ] One: [[tutorial.1-navigation-basics]]\n\t- [ ] Two: [[tutorial.2-taking-notes]]\n\t- [ ] Three: [[tutorial.3-linking-your-notes]]\n\t- [ ] Four:  [[tutorial.4-rich-formatting]]\n\t- [ ] Five:  [[tutorial.5-conclusion]]\n\n#### Getting Help\n\n- If you get stuck, take a look at our full documentation on our [wiki](https://wiki.dendron.so/). Don't hesitate to reach out to our community of Dendrologists on [Discord](https://discord.com/invite/AE3NRw9) or message us on Twitter at [@dendronhq](https://twitter.com/dendronhq)\n\n---\n\n##### Icon Guide\n\n🌱 - Try out this feature now in the editor!\n💡 - Important to note\n"
+    },
+    "Jwq6452yNKOVw6WZhvQQd": {
+      "id": "Jwq6452yNKOVw6WZhvQQd",
+      "title": "Conclusion",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial.5-conclusion",
+            "id": "Jwq6452yNKOVw6WZhvQQd",
+            "vaultName": "vault"
+          },
+          "value": "tutorial",
+          "alias": "Tutorial Home Page",
+          "position": {
+            "start": {
+              "line": 26,
+              "column": 1,
+              "offset": 1817
+            },
+            "end": {
+              "line": 26,
+              "column": 33,
+              "offset": 1849
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial"
+          }
+        },
+        {
+          "from": {
+            "fname": "tutorial",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 21,
+              "column": 15,
+              "offset": 1032
+            },
+            "end": {
+              "line": 21,
+              "column": 40,
+              "offset": 1057
+            },
+            "indent": []
+          },
+          "value": "tutorial.5-conclusion"
+        },
+        {
+          "from": {
+            "fname": "tutorial.4-rich-formatting",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 61,
+              "column": 3,
+              "offset": 1703
+            },
+            "end": {
+              "line": 61,
+              "column": 50,
+              "offset": 1750
+            },
+            "indent": []
+          },
+          "value": "tutorial.5-conclusion"
+        },
+        {
+          "from": {
+            "fname": "tutorial.4-rich-formatting",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 55,
+              "column": 1,
+              "offset": 1458
+            },
+            "end": {
+              "line": 55,
+              "column": 119,
+              "offset": 1576
+            },
+            "indent": []
+          },
+          "value": "tutorial.5-conclusion"
+        }
+      ],
+      "anchors": {
+        "join-the-community-of-dendrologists": {
+          "type": "header",
+          "value": "join-the-community-of-dendrologists",
+          "line": 12,
+          "column": 0
+        },
+        "explore-the-full-potential-of-dendron": {
+          "type": "header",
+          "value": "explore-the-full-potential-of-dendron",
+          "line": 18,
+          "column": 0
+        },
+        "^discord-block-ref": {
+          "type": "block",
+          "value": "discord-block-ref",
+          "line": 16,
+          "column": 0
+        }
+      },
+      "fname": "tutorial.5-conclusion",
+      "updated": 1624934419858,
+      "created": 1624332987705,
+      "parent": "01u0co3RYjOM1bjpc2qIU",
+      "children": [],
+      "data": {},
+      "contentHash": "3e6d9903ce1bea5b09ff5f565a757e0d",
+      "custom": {},
+      "body": "\n**Congratulations!** You've completed the Dendron Tutorial 🙌. With its fast lookup, flexible hierarchies, note linking, and rich formatting, Dendron provides you a way to manage knowledge for individuals and organizations alike.\n\nFrom here, you can start adding your notes to this workspace, or if you'd like to start fresh you can create a new workspace for your notes with the `Dendron: Initialize Workspace` Command.\n\n#### Join the community of Dendrologists\n\nDon't forget - join us on [Discord](https://discord.com/invite/AE3NRw9) to ask questions, suggest new features, or to discuss note-taking methodologies with fellow Dendrologists.\n\n^discord-block-ref\n\n#### Explore the full potential of Dendron\n\nThere is much more that Dendron offers. When you're ready, learn more about additional features that Dendron offers:\n\n- [ ] Import your existing notes from other sources like Obsidian, etc. with [Pods](https://wiki.dendron.so/notes/66727a39-d0a7-449b-a10d-f6c438185d7f.html)\n- [ ] [Publish](https://wiki.dendron.so/notes/861e4e48-dcc5-4813-a695-8940ba6e64d3.html) your notes to a website with just a few clicks. Our [Dendron Wiki Site](https://wiki.dendron.so/) is created in this way!\n- [ ] Check out our [Case Studies](https://wiki.dendron.so/notes/34ee4bcf-60e9-4031-a4c0-26113b5acb80.html) and [Workflows](https://wiki.dendron.so/notes/9313b845-d9bf-42c9-aad1-0da34794ce26.html) to see various ways Dendron is being used to organize knowledge.\n- [ ] Learn about more [Commands](https://wiki.dendron.so/notes/eea2b078-1acc-4071-a14e-18299fc28f47.html)\n\n- [ ] Check out our [Seed Bank](https://wiki.dendron.so/notes/6ff8cbb6-e4b8-449b-a967-277b76e4ecef.html) to pull down documentation for public topics.\n\nA complete set of our documentation can be found on our [Wiki Site](https://wiki.dendron.so/).\n\n---\n[[Tutorial Home Page| tutorial]]\n"
+    },
+    "vAy0awBTwDaxKGHWUdSaP": {
+      "id": "vAy0awBTwDaxKGHWUdSaP",
+      "title": "Rich Formatting",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "Text Formatting, Images, Formulas, and Diagrams",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial.4-rich-formatting",
+            "id": "vAy0awBTwDaxKGHWUdSaP",
+            "vaultName": "vault"
+          },
+          "value": "tutorial.5-conclusion",
+          "alias": "Conclude the Tutorial",
+          "position": {
+            "start": {
+              "line": 61,
+              "column": 3,
+              "offset": 1703
+            },
+            "end": {
+              "line": 61,
+              "column": 50,
+              "offset": 1750
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial.5-conclusion"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial.4-rich-formatting",
+            "id": "vAy0awBTwDaxKGHWUdSaP",
+            "vaultName": "vault"
+          },
+          "value": "tutorial",
+          "alias": "Tutorial Home Page",
+          "position": {
+            "start": {
+              "line": 64,
+              "column": 1,
+              "offset": 1756
+            },
+            "end": {
+              "line": 64,
+              "column": 33,
+              "offset": 1788
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "tutorial.4-rich-formatting",
+            "id": "vAy0awBTwDaxKGHWUdSaP",
+            "vaultName": "vault"
+          },
+          "value": "tutorial.5-conclusion",
+          "position": {
+            "start": {
+              "line": 55,
+              "column": 1,
+              "offset": 1458
+            },
+            "end": {
+              "line": 55,
+              "column": 119,
+              "offset": 1576
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tutorial.5-conclusion",
+            "anchorHeader": "join-the-community-of-dendrologists:#^discord-block-ref"
+          }
+        },
+        {
+          "from": {
+            "fname": "tutorial",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 20,
+              "column": 15,
+              "offset": 987
+            },
+            "end": {
+              "line": 20,
+              "column": 45,
+              "offset": 1017
+            },
+            "indent": []
+          },
+          "value": "tutorial.4-rich-formatting"
+        },
+        {
+          "from": {
+            "fname": "tutorial.3-linking-your-notes",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 30,
+              "column": 20,
+              "offset": 1391
+            },
+            "end": {
+              "line": 30,
+              "column": 66,
+              "offset": 1437
+            },
+            "indent": []
+          },
+          "value": "tutorial.4-rich-formatting"
+        }
+      ],
+      "anchors": {
+        "markdown-formatting-options": {
+          "type": "header",
+          "value": "markdown-formatting-options",
+          "line": 10,
+          "column": 0
+        },
+        "images": {
+          "type": "header",
+          "value": "images",
+          "line": 18,
+          "column": 0
+        },
+        "equations": {
+          "type": "header",
+          "value": "equations",
+          "line": 25,
+          "column": 0
+        },
+        "diagrams": {
+          "type": "header",
+          "value": "diagrams",
+          "line": 33,
+          "column": 0
+        },
+        "flow-charts": {
+          "type": "header",
+          "value": "flow-charts",
+          "line": 37,
+          "column": 0
+        },
+        "sequence-diagrams": {
+          "type": "header",
+          "value": "sequence-diagrams",
+          "line": 45,
+          "column": 0
+        },
+        "note-references": {
+          "type": "header",
+          "value": "note-references",
+          "line": 57,
+          "column": 0
+        },
+        "next-steps": {
+          "type": "header",
+          "value": "next-steps",
+          "line": 65,
+          "column": 0
+        }
+      },
+      "fname": "tutorial.4-rich-formatting",
+      "updated": 1624865905667,
+      "created": 1624352425213,
+      "parent": "01u0co3RYjOM1bjpc2qIU",
+      "children": [],
+      "data": {},
+      "contentHash": "9a5d372019106112c270d10d6b3f4a75",
+      "custom": {},
+      "body": "\nDendron supports an extended Markdown syntax, which provides a lot of options for rich formatting. Take a look at some examples in this note to see what's possible.  Have the preview pane opened (`Dendron: Show Preview`) to see how these will get rendered.\n\n#### Markdown Formatting Options\n\n|Formatting|Example|\n|:---|:---:|\n|Bold|**Hello World**|\n|Italics|_Hello World_|\n|Strikethrough|~~Hello World~~|\n\n#### Images\n\n> 🌱 Copy any image onto your clipboard, and then use the `Paste Image` command while focused in your editor pane. This will automatically create a link for you and copy the file contents into the assets directory in your workspace.\n\nSample Image Link:\n![Dendron Logo](/assets/images/logo_small.png)\n\n#### Equations\n\nMath typesetting can be written through [Katex](https://wiki.dendron.so/notes/b1919663-cc48-4054-b0cf-4b26fe444907.html)\n\n$$\n\\int_{-\\infty}^\\infty f(x)dx\n$$\n\n#### Diagrams\n\nVarious types of diagrams are supported with the [mermaid](https://mermaid-js.github.io/mermaid/#/) visualization syntax.\n\n##### Flow Charts\n\n```mermaid\ngraph TD;\n    A-->B;\n    A-->C;\n```\n\n##### Sequence Diagrams\n\n```mermaid\nsequenceDiagram\n    participant Alice\n    participant Bob\n    Alice->>John: Hello John, how are you?\n    John-->>Alice: Great!\n    John->>Bob: How about you?\n    Bob-->>John: Jolly good!\n```\n\n### Note References\n\nYou can link to a specific section of a different note and have the content in-lined into the current note.\n\n![[Join the community of Dendrologists|tutorial.5-conclusion#join-the-community-of-dendrologists:#^discord-block-ref]]\n\n[References Docs](https://wiki.dendron.so/notes/f1af56bb-db27-47ae-8406-61a98de6c78c.html#note-reference)\n\n### Next Steps\n\n- [[Conclude the Tutorial|tutorial.5-conclusion]]\n\n---\n[[Tutorial Home Page| tutorial]]\n"
+    },
+    "hAB2tQHsi0CGuhxz5HkTI": {
+      "id": "hAB2tQHsi0CGuhxz5HkTI",
+      "title": "Linking Your Notes",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "Note Linking and your Knowledge Graph",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial.3-linking-your-notes",
+            "id": "hAB2tQHsi0CGuhxz5HkTI",
+            "vaultName": "vault"
+          },
+          "value": "tutorial",
+          "alias": "tutorial",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 10,
+              "offset": 334
+            },
+            "end": {
+              "line": 8,
+              "column": 22,
+              "offset": 346
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial.3-linking-your-notes",
+            "id": "hAB2tQHsi0CGuhxz5HkTI",
+            "vaultName": "vault"
+          },
+          "value": "tutorial.4-rich-formatting",
+          "alias": "Rich Formatting",
+          "position": {
+            "start": {
+              "line": 30,
+              "column": 20,
+              "offset": 1391
+            },
+            "end": {
+              "line": 30,
+              "column": 66,
+              "offset": 1437
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial.4-rich-formatting"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial.3-linking-your-notes",
+            "id": "hAB2tQHsi0CGuhxz5HkTI",
+            "vaultName": "vault"
+          },
+          "value": "tutorial",
+          "alias": "My Alias",
+          "position": {
+            "start": {
+              "line": 33,
+              "column": 76,
+              "offset": 1685
+            },
+            "end": {
+              "line": 33,
+              "column": 97,
+              "offset": 1706
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial.3-linking-your-notes",
+            "id": "hAB2tQHsi0CGuhxz5HkTI",
+            "vaultName": "vault"
+          },
+          "value": "tutorial.3-links-and-graphs",
+          "alias": "Additional Link Features",
+          "position": {
+            "start": {
+              "line": 34,
+              "column": 87,
+              "offset": 1793
+            },
+            "end": {
+              "line": 34,
+              "column": 168,
+              "offset": 1874
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial.3-links-and-graphs",
+            "anchorHeader": "additional-link-features"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial.3-linking-your-notes",
+            "id": "hAB2tQHsi0CGuhxz5HkTI",
+            "vaultName": "vault"
+          },
+          "value": "tutorial",
+          "alias": "Tutorial Home Page",
+          "position": {
+            "start": {
+              "line": 38,
+              "column": 1,
+              "offset": 2088
+            },
+            "end": {
+              "line": 38,
+              "column": 33,
+              "offset": 2120
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial"
+          }
+        },
+        {
+          "from": {
+            "fname": "tutorial",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 19,
+              "column": 15,
+              "offset": 939
+            },
+            "end": {
+              "line": 19,
+              "column": 48,
+              "offset": 972
+            },
+            "indent": []
+          },
+          "value": "tutorial.3-linking-your-notes"
+        },
+        {
+          "from": {
+            "fname": "tutorial.2-taking-notes",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 46,
+              "column": 20,
+              "offset": 3438
+            },
+            "end": {
+              "line": 46,
+              "column": 72,
+              "offset": 3490
+            },
+            "indent": []
+          },
+          "value": "tutorial.3-linking-your-notes"
+        }
+      ],
+      "anchors": {
+        "links": {
+          "type": "header",
+          "value": "links",
+          "line": 8,
+          "column": 0
+        },
+        "backlinks": {
+          "type": "header",
+          "value": "backlinks",
+          "line": 20,
+          "column": 0
+        },
+        "explore-your-knowledge-graph": {
+          "type": "header",
+          "value": "explore-your-knowledge-graph",
+          "line": 26,
+          "column": 0
+        },
+        "next-steps": {
+          "type": "header",
+          "value": "next-steps",
+          "line": 34,
+          "column": 0
+        }
+      },
+      "fname": "tutorial.3-linking-your-notes",
+      "updated": 1624934268124,
+      "created": 1624333278136,
+      "parent": "01u0co3RYjOM1bjpc2qIU",
+      "children": [],
+      "data": {},
+      "contentHash": "a00c5bc3d88a393154cdf96e578094a2",
+      "custom": {},
+      "body": "\n### Links\n\nDendron supports links between your notes, which can help you organically connect your thoughts and build up a powerful and **personal** knowledge graph.\n\n> 🌱 To create a link, just start typing [[ and Dendron will show you a list of notes in your workspace that you can link to. Try it in the editor pane now.\n\nExample: [[tutorial]]\n\nTo navigate to the note in the link, you can just click on the link in the preview pane. In the editor pane, you can move the cursor into the link and hit `Cmd+Enter`.\n\nYou can switch back to the previous note by pressing `Cmd+Tab`\n\n#### Backlinks\n\nTake a look at the backlinks panel on the bottom left section of your sidebar. The backlinks panel shows you all notes that have linked to the current note. This is useful for helping to establish context.\n\n![Backlinks](https://org-dendron-public-assets.s3.amazonaws.com/images/tutorial-backlinks.png)\n\n### Explore Your Knowledge Graph\n\n> 🌱 To get a visual representation of your notes, use the `Dendron: Show Note Graph` command.\n\nYou can explore the hierarchical organization of your notes and how your notes are linked together. We're continually working to improve this feature so keep on the lookout for new capabilities in the graph view in the future!\n\n![Graph View](https://org-dendron-public-assets.s3.amazonaws.com/images/tutorial-graph-view.png)\n\n### Next Steps\n\n- Tutorial Step 4: [[Rich Formatting|tutorial.4-rich-formatting]]\n- Try out some additional features of links:\n  - Create a note directly from a link - place your cursor inside this link `[[recipes.new-recipes-to-try]]`, hit `Cmd+ENTER`.\n  - Add an alias to a link to change how it shows in the preview. Example: [[My Alias|tutorial]]\n  - Relative Links - Link to a specific section of a page with a `#` suffix. Example: [[Additional Link Features|tutorial.3-links-and-graphs#additional-link-features]]\n  - Note References - Add a section from another note with its content inlined into the current note. [References Docs](https://wiki.dendron.so/notes/f1af56bb-db27-47ae-8406-61a98de6c78c.html#note-reference)\n\n---\n[[Tutorial Home Page| tutorial]]\n"
+    },
+    "DO_RXSlAbwNwbz-ILKoQa": {
+      "id": "DO_RXSlAbwNwbz-ILKoQa",
+      "title": "Taking Notes",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial.2-taking-notes",
+            "id": "DO_RXSlAbwNwbz-ILKoQa",
+            "vaultName": "vault"
+          },
+          "value": "tutorial.3-linking-your-notes",
+          "alias": "Linking Your Notes",
+          "position": {
+            "start": {
+              "line": 46,
+              "column": 20,
+              "offset": 3438
+            },
+            "end": {
+              "line": 46,
+              "column": 72,
+              "offset": 3490
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial.3-linking-your-notes"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial.2-taking-notes",
+            "id": "DO_RXSlAbwNwbz-ILKoQa",
+            "vaultName": "vault"
+          },
+          "value": "tutorial",
+          "alias": "Tutorial Home Page",
+          "position": {
+            "start": {
+              "line": 49,
+              "column": 1,
+              "offset": 3496
+            },
+            "end": {
+              "line": 49,
+              "column": 33,
+              "offset": 3528
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial"
+          }
+        },
+        {
+          "from": {
+            "fname": "tutorial",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 18,
+              "column": 13,
+              "offset": 897
+            },
+            "end": {
+              "line": 18,
+              "column": 40,
+              "offset": 924
+            },
+            "indent": []
+          },
+          "value": "tutorial.2-taking-notes"
+        },
+        {
+          "from": {
+            "fname": "tutorial.1-navigation-basics",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 41,
+              "column": 28,
+              "offset": 2052
+            },
+            "end": {
+              "line": 41,
+              "column": 55,
+              "offset": 2079
+            },
+            "indent": []
+          },
+          "value": "tutorial.2-taking-notes"
+        }
+      ],
+      "anchors": {
+        "create-a-note": {
+          "type": "header",
+          "value": "create-a-note",
+          "line": 8,
+          "column": 0
+        },
+        "creating-a-hierarchy": {
+          "type": "header",
+          "value": "creating-a-hierarchy",
+          "line": 20,
+          "column": 0
+        },
+        "finding-notes": {
+          "type": "header",
+          "value": "finding-notes",
+          "line": 38,
+          "column": 0
+        },
+        "next-steps": {
+          "type": "header",
+          "value": "next-steps",
+          "line": 50,
+          "column": 0
+        }
+      },
+      "fname": "tutorial.2-taking-notes",
+      "updated": 1624934082241,
+      "created": 1624333266168,
+      "parent": "01u0co3RYjOM1bjpc2qIU",
+      "children": [],
+      "data": {},
+      "contentHash": "a0234e0a441cac6f23f670431c95c3c5",
+      "custom": {},
+      "body": "\n### Create a Note\n\nTo create a note, use `Cmd+L` to bring up Dendron's lookup. This is a shortcut for the `Dendron: Lookup Note` command.\n\n> 💡 The lookup command is the main way to interact with Dendron. It is used for both looking up your notes and creating new notes. When you do a lookup on a note that hasn't been created, Dendron will create it for you. Remember the `Cmd+L` shortcut.\n\n> 🌱 Try it yourself - bring up the lookup bar with Cmd+L. Type `recipes` and hit Enter. Afterward, you can use the `Ctrl+Tab` shortcut to get back to this note.\n\nThis should have created a note named `recipes.md`. Notes in Dendron are just plaintext markdown. They live in your file system and are portable across any platform, which makes it very easy to import/ export your notes and even to publish your notes to a hosted website. You can try to add some content to the body of your `recipes` note now.\n\nThe --- section at the top of each note is frontmatter. Frontmatter are custom attributes at the top of each markdown file. Dendron uses it to store metadata about each note for features like publishing. Don't modify the id attribute on the front matter.\n\n### Creating a hierarchy\n\nDendron uses flexible hierarchies to help you organize your notes. It's how people are able to manage tens of thousands of notes inside Dendron.\n\n> 🌱 To create a hierarchy, bring up lookup again `(Cmd+L)`. Type `recipes.vegetarian` and then press enter.\n\nYou have now created your first hierarchy. Hierarchies in Dendron are created by having a `.` delimiter in the file name. Take a look at the tree view in the side panel to see that the `vegetarian` note exists under the `recipes` hierarchy. You can also see in the Workspace panel that the note file is stored as `recipes.vegetarian.md`.\n\nYou can create a hierarchy at any level:\n\n> 🌱 Type the following into lookup and hit enter: `recipes.italian.desserts.tiramisu`\n\nYou'll notice in the tree view that there is now a `+` sign next to `italian` and `desserts`. The plus sign indicates that this note is a stub. A stub is a placeholder for a note that hasn't actually been created. Dendron uses stubs to avoid cluttering your file system with empty notes when creating hierarchies.\n\n![Tree View](https://org-dendron-public-assets.s3.amazonaws.com/images/tutorial-tree-view.png)\n\nFollowing this recipes example, you can try creating other notes that might be relevant. Some examples: `recipes.italian.appetizers`, `recipes.chinese`, `recipes.chinese.appetizers`, `recipes.ingredients.favorites`, `recipes.ingredients.shopping-list`. Hierarchies are flexible, and you can create them in whichever way works best for you. Dendron allows you to easily change the hierarchies later if you change your mind on how to organize your notes.\n\n### Finding Notes\n\nTo find notes, we use the same lookup interface that we used to create them.\n\n> 🌱 Open Lookup, and type `vege`. This will find your `recipes.vegetarian` note. Hit `Enter` to open that note.\n\nThe lookup uses fuzzy search which means you can type out partial results and still see the results. Searching with * wildcards is also supported.\n\nWhen combined with hierarchies, this fast lookup system enables you to find your notes very quickly, even if you have thousands of notes in your vaults.\n\nIf you want to search for content within the notes, you can use VS Code's built-in search tools with `Cmd+Shift+F`.\n\n### Next Steps\n\n- Tutorial Step 3: [[Linking Your Notes|tutorial.3-linking-your-notes]]\n\n---\n[[Tutorial Home Page| tutorial]]\n"
+    },
+    "vXh-HmSTsmgGA9j9IzcZh": {
+      "id": "vXh-HmSTsmgGA9j9IzcZh",
+      "title": "Navigation Basics",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial.1-navigation-basics",
+            "id": "vXh-HmSTsmgGA9j9IzcZh",
+            "vaultName": "vault"
+          },
+          "value": "tutorial",
+          "alias": "tutorial",
+          "position": {
+            "start": {
+              "line": 40,
+              "column": 62,
+              "offset": 1939
+            },
+            "end": {
+              "line": 40,
+              "column": 74,
+              "offset": 1951
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial.1-navigation-basics",
+            "id": "vXh-HmSTsmgGA9j9IzcZh",
+            "vaultName": "vault"
+          },
+          "value": "tutorial.2-taking-notes",
+          "alias": "tutorial.2-taking-notes",
+          "position": {
+            "start": {
+              "line": 41,
+              "column": 28,
+              "offset": 2052
+            },
+            "end": {
+              "line": 41,
+              "column": 55,
+              "offset": 2079
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial.2-taking-notes"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial.1-navigation-basics",
+            "id": "vXh-HmSTsmgGA9j9IzcZh",
+            "vaultName": "vault"
+          },
+          "value": "tutorial",
+          "alias": "Tutorial Home Page",
+          "position": {
+            "start": {
+              "line": 44,
+              "column": 1,
+              "offset": 2085
+            },
+            "end": {
+              "line": 44,
+              "column": 33,
+              "offset": 2117
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial"
+          }
+        },
+        {
+          "from": {
+            "fname": "tutorial",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 17,
+              "column": 14,
+              "offset": 852
+            },
+            "end": {
+              "line": 17,
+              "column": 46,
+              "offset": 884
+            },
+            "indent": []
+          },
+          "value": "tutorial.1-navigation-basics"
+        }
+      ],
+      "anchors": {
+        "1-editor-pane": {
+          "type": "header",
+          "value": "1-editor-pane",
+          "line": 16,
+          "column": 0
+        },
+        "2-preview-pane": {
+          "type": "header",
+          "value": "2-preview-pane",
+          "line": 20,
+          "column": 0
+        },
+        "3-dendron-workspace": {
+          "type": "header",
+          "value": "3-dendron-workspace",
+          "line": 26,
+          "column": 0
+        },
+        "4-outline": {
+          "type": "header",
+          "value": "4-outline",
+          "line": 30,
+          "column": 0
+        },
+        "5-tree-view": {
+          "type": "header",
+          "value": "5-tree-view",
+          "line": 34,
+          "column": 0
+        },
+        "6-backlinks": {
+          "type": "header",
+          "value": "6-backlinks",
+          "line": 38,
+          "column": 0
+        },
+        "next-steps": {
+          "type": "header",
+          "value": "next-steps",
+          "line": 44,
+          "column": 0
+        }
+      },
+      "fname": "tutorial.1-navigation-basics",
+      "updated": 1624934444826,
+      "created": 1624332288808,
+      "parent": "01u0co3RYjOM1bjpc2qIU",
+      "children": [],
+      "data": {},
+      "contentHash": "cc990951fc364ed9e03805c064a6ab89",
+      "custom": {},
+      "body": "\nLet's do a brief overview on how to navigate the Dendron UI.\n\n_Quick note on running commands in VS Code:_\n\n>If you're unfamiliar with VS Code, the command palette is used to quickly run commands, including the commands for Dendron. To bring up the command palette, use `Cmd+Shift+P` and start typing the command. Throughout the tutorial, if you see instructions telling you to run a command, remember to bring up the command palette and then type the command name to run it.\n\n![Basic UI](https://org-dendron-public-assets.s3.amazonaws.com/images/tutorial-layout.png)\n\n#### 1. Editor Pane\n\nThis is where you can write and edit your notes. Notes in Dendron are Markdown files.\n\n#### 2. Preview Pane\n\nThis shows the rendered Markdown of what your currently opened note looks like. If you close this pane, you can always bring it back by opening the command palette `Cmd+Shift+P` and running the `Dendron: Show Preview` command.\n\n>💡 The preview pane is read-only and cannot be used to edit notes. All editing must be done in the editor pane.\n\n#### 3. Dendron Workspace\n\nThis shows the files in your vault. A vault is where Dendron stores your markdown notes, assets, and some other helper files. Clicking on a note here will open it into the editor pane.\n\n#### 4. Outline\n\nShows an outline of the currently opened note. This observes the header levels in the Markdown of the note.\n\n#### 5. Tree View\n\nThis shows a hierarchical view of your notes, similar to how a folder structure would appear in your filesystem. You can also click in the tree view to navigate around your notes.\n\n#### 6. Backlinks\n\nThis shows a list of other notes that have links to the current note. More on links in Section 3 of the tutorial.\n\n> 💡 VS Code lets you reposition any of these windows as you'd like, so feel free to rearrange the windows into the view that works best for you!\n\n### Next Steps\n\n- You've completed navigation basics! You can go back to the [[tutorial]] page and check off the Navigation Basics checkbox to mark your progress.\n- Next is Tutorial Step 2: [[tutorial.2-taking-notes]]\n\n---\n[[Tutorial Home Page| tutorial]]\n"
+    },
+    "changelog": {
+      "id": "changelog",
+      "title": "Changelog",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "root.changelog",
+      "updated": 1631118004571,
+      "created": 1631118004571,
+      "parent": null,
+      "children": [],
+      "body": "",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "root",
+      "title": "root",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "root",
+      "updated": 1605266684036,
+      "created": 1595961348801,
+      "parent": null,
+      "children": [
+        "01u0co3RYjOM1bjpc2qIU"
+      ],
+      "data": {},
+      "contentHash": "cf4622cd4e7841f93fb3051e6203c8e6",
+      "custom": {
+        "stub": false,
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "body": "\nThis is the root for your Dendron vault.\n\nIf you decide to publish your entire vault, it will be your landing page. You are free to customize any part of this page except the frontmatter at the top, between the `---`. \n"
+    }
+  ],
+  "noteIndex": {
+    "id": "root",
+    "title": "root",
+    "vault": {
+      "fsPath": "vault"
+    },
+    "type": "note",
+    "desc": "",
+    "links": [],
+    "anchors": {},
+    "fname": "root",
+    "updated": 1605266684036,
+    "created": 1595961348801,
+    "parent": null,
+    "children": [
+      "01u0co3RYjOM1bjpc2qIU"
+    ],
+    "data": {},
+    "contentHash": "cf4622cd4e7841f93fb3051e6203c8e6",
+    "custom": {
+      "stub": false,
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "body": "\nThis is the root for your Dendron vault.\n\nIf you decide to publish your entire vault, it will be your landing page. You are free to customize any part of this page except the frontmatter at the top, between the `---`. \n"
+  },
+  "vaults": [
+    {
+      "fsPath": "vault"
+    }
+  ]
+}
