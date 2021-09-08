@@ -43,7 +43,7 @@
     ],
     "siteRootDir": "docs",
     "assetsPrefix": "/dendron-next-test",
-    "siteUrl": "https://kevinslin.github.io/dendron-next-test",
+    "siteUrl": "https://kevinslin.github.io",
     "usePrettyRefs": true,
     "title": "Dendron",
     "description": "Personal knowledge space",
