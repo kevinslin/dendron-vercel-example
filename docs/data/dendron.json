@@ -42,6 +42,8 @@
       "root"
     ],
     "siteRootDir": "docs",
+    "assetsPrefix": "/dendron-next-test",
+    "siteUrl": "https://kevinslin.github.io/dendron-next-test",
     "usePrettyRefs": true,
     "title": "Dendron",
     "description": "Personal knowledge space",
@@ -53,7 +55,6 @@
       ]
     },
     "dest": "/Users/kevinlin/Dendron-Tutorial/.next",
-    "siteUrl": "localhost:3000",
     "includeBody": true,
     "usePrettyLinks": true,
     "siteNotesDir": "notes",
