@@ -11,8 +11,8 @@
       "links": [],
       "anchors": {},
       "fname": "403",
-      "updated": 1631118004571,
-      "created": 1631118004571,
+      "updated": 1631146467040,
+      "created": 1631146467040,
       "parent": null,
       "children": [],
       "body": "[Dendron](https://dendron.so/) (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page\n\n![](https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png)",
@@ -66,12 +66,12 @@
             "start": {
               "line": 17,
               "column": 14,
-              "offset": 852
+              "offset": 861
             },
             "end": {
               "line": 17,
               "column": 46,
-              "offset": 884
+              "offset": 893
             },
             "indent": []
           },
@@ -94,12 +94,12 @@
             "start": {
               "line": 18,
               "column": 13,
-              "offset": 897
+              "offset": 906
             },
             "end": {
               "line": 18,
               "column": 40,
-              "offset": 924
+              "offset": 933
             },
             "indent": []
           },
@@ -122,12 +122,12 @@
             "start": {
               "line": 19,
               "column": 15,
-              "offset": 939
+              "offset": 948
             },
             "end": {
               "line": 19,
               "column": 48,
-              "offset": 972
+              "offset": 981
             },
             "indent": []
           },
@@ -150,12 +150,12 @@
             "start": {
               "line": 20,
               "column": 15,
-              "offset": 987
+              "offset": 996
             },
             "end": {
               "line": 20,
               "column": 45,
-              "offset": 1017
+              "offset": 1026
             },
             "indent": []
           },
@@ -178,12 +178,12 @@
             "start": {
               "line": 21,
               "column": 15,
-              "offset": 1032
+              "offset": 1041
             },
             "end": {
               "line": 21,
               "column": 40,
-              "offset": 1057
+              "offset": 1066
             },
             "indent": []
           },
@@ -206,12 +206,12 @@
             "start": {
               "line": 25,
               "column": 240,
-              "offset": 1317
+              "offset": 1326
             },
             "end": {
               "line": 25,
               "column": 250,
-              "offset": 1327
+              "offset": 1336
             },
             "indent": []
           },
@@ -427,9 +427,9 @@
         "Jwq6452yNKOVw6WZhvQQd"
       ],
       "data": {},
-      "contentHash": "354180fb8e78febbfa546ec58cf34ea5",
+      "contentHash": "25ee57e3ed5ba534e8a1255c4259fed9",
       "custom": {},
-      "body": "\n## Welcome to Dendron\n\nThis guide will help you learn the basics of Dendron. You can also follow the Getting Started guides on our [website](https://wiki.dendron.so/notes/678c77d9-ef2c-4537-97b5-64556d6337f1.html).\n\nBy the end of the tutorial, you will also see how Dendron can help you manage your knowledge with super fast lookup, flexible hierarchies, and powerful linking.\n\nIf you close VS Code, you can always get back to this workspace by going to `File > Open Workspace` in VS Code's menu and then selecting your workspace file: `/Users/kevinlin/Dendron/dendron.code-workspace`\n\nThe tutorial steps take about 10 minutes to complete. Let's get started!\n\n#### Steps to get started with Dendron:\n\n- [x] Install Dendron\n- [x] Create your first workspace\n- [ ] Complete the Tutorial (Cmd+Click on the links to go to each tutorial note)\n  - [ ] One: [[tutorial.1-navigation-basics]]\n\t- [ ] Two: [[tutorial.2-taking-notes]]\n\t- [ ] Three: [[tutorial.3-linking-your-notes]]\n\t- [ ] Four:  [[tutorial.4-rich-formatting]]\n\t- [ ] Five:  [[tutorial.5-conclusion]]\n\n#### Getting Help\n\n- If you get stuck, take a look at our full documentation on our [wiki](https://wiki.dendron.so/). Don't hesitate to reach out to our community of Dendrologists on [Discord](https://discord.com/invite/AE3NRw9) or message us on Twitter at [@dendronhq](https://twitter.com/dendronhq)\n\n---\n\n##### Icon Guide\n\n🌱 - Try out this feature now in the editor!\n💡 - Important to note\n"
+      "body": "\n## Welcome to Dendron\n\nThis guide will help you learn the basics of Dendron. You can also follow the Getting Started guides on our [website](https://wiki.dendron.so/notes/678c77d9-ef2c-4537-97b5-64556d6337f1.html).\n\nBy the end of the tutorial, you will also see how Dendron can help you manage your knowledge with super fast lookup, flexible hierarchies, and powerful linking.\n\nIf you close VS Code, you can always get back to this workspace by going to `File > Open Workspace` in VS Code's menu and then selecting your workspace file: `/Users/kevinlin/Dendron-Tutorial/dendron.code-workspace`\n\nThe tutorial steps take about 10 minutes to complete. Let's get started!\n\n#### Steps to get started with Dendron:\n\n- [x] Install Dendron\n- [x] Create your first workspace\n- [ ] Complete the Tutorial (Cmd+Click on the links to go to each tutorial note)\n  - [ ] One: [[tutorial.1-navigation-basics]]\n\t- [ ] Two: [[tutorial.2-taking-notes]]\n\t- [ ] Three: [[tutorial.3-linking-your-notes]]\n\t- [ ] Four:  [[tutorial.4-rich-formatting]]\n\t- [ ] Five:  [[tutorial.5-conclusion]]\n\n#### Getting Help\n\n- If you get stuck, take a look at our full documentation on our [wiki](https://wiki.dendron.so/). Don't hesitate to reach out to our community of Dendrologists on [Discord](https://discord.com/invite/AE3NRw9) or message us on Twitter at [@dendronhq](https://twitter.com/dendronhq)\n\n---\n\n##### Icon Guide\n\n🌱 - Try out this feature now in the editor!\n💡 - Important to note\n"
     },
     "Jwq6452yNKOVw6WZhvQQd": {
       "id": "Jwq6452yNKOVw6WZhvQQd",
@@ -478,12 +478,12 @@
             "start": {
               "line": 21,
               "column": 15,
-              "offset": 1032
+              "offset": 1041
             },
             "end": {
               "line": 21,
               "column": 40,
-              "offset": 1057
+              "offset": 1066
             },
             "indent": []
           },
@@ -664,12 +664,12 @@
             "start": {
               "line": 20,
               "column": 15,
-              "offset": 987
+              "offset": 996
             },
             "end": {
               "line": 20,
               "column": 45,
-              "offset": 1017
+              "offset": 1026
             },
             "indent": []
           },
@@ -917,12 +917,12 @@
             "start": {
               "line": 19,
               "column": 15,
-              "offset": 939
+              "offset": 948
             },
             "end": {
               "line": 19,
               "column": 48,
-              "offset": 972
+              "offset": 981
             },
             "indent": []
           },
@@ -1061,12 +1061,12 @@
             "start": {
               "line": 18,
               "column": 13,
-              "offset": 897
+              "offset": 906
             },
             "end": {
               "line": 18,
               "column": 40,
-              "offset": 924
+              "offset": 933
             },
             "indent": []
           },
@@ -1233,12 +1233,12 @@
             "start": {
               "line": 17,
               "column": 14,
-              "offset": 852
+              "offset": 861
             },
             "end": {
               "line": 17,
               "column": 46,
-              "offset": 884
+              "offset": 893
             },
             "indent": []
           },
@@ -1310,8 +1310,8 @@
       "links": [],
       "anchors": {},
       "fname": "root.changelog",
-      "updated": 1631118004571,
-      "created": 1631118004571,
+      "updated": 1631146467040,
+      "created": 1631146467040,
       "parent": null,
       "children": [],
       "body": "",

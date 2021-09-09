@@ -42,20 +42,21 @@
       "root"
     ],
     "siteRootDir": "docs",
-    "siteUrl": "https://kevinslin.github.io/dendron-next-test",
+    "assetsPrefix": "/dendron-next-test",
+    "siteUrl": "https://kevinslin.github.io",
     "usePrettyRefs": true,
     "title": "Dendron",
     "description": "Personal knowledge space",
     "siteLastModified": true,
-    "usePrettyLinks": true,
     "duplicateNoteBehavior": {
       "action": "useVault",
       "payload": [
         "vault"
       ]
     },
-    "dest": "/Users/kevinlin/Dendron/.next",
+    "dest": "/Users/kevinlin/Dendron-Tutorial/.next",
     "includeBody": true,
+    "usePrettyLinks": true,
     "siteNotesDir": "notes",
     "siteFaviconPath": "favicon.ico",
     "gh_edit_link": true,
@@ -66,6 +67,5 @@
     "writeStubs": true,
     "siteIndex": "root"
   },
-  "initializeRemoteVaults": true,
-  "dendronVersion": "0.58.0"
+  "initializeRemoteVaults": true
 }
