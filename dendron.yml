@@ -33,8 +33,7 @@ site:
     siteHierarchies:
         - root
     siteRootDir: docs
-    assetsPrefix: /dendron-next-test
-    siteUrl: "https://kevinslin.github.io"
+    siteUrl: "https://dendron-vercel-example.vercel.app"
     usePrettyRefs: true
     title: Dendron
     description: Personal knowledge space
